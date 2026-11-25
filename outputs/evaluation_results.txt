@@ -1,0 +1,14 @@
+Accuracy: 100.00%
+
+               precision    recall  f1-score   support
+
+not_signature       1.00      1.00      1.00       300
+    signature       1.00      1.00      1.00       396
+
+     accuracy                           1.00       696
+    macro avg       1.00      1.00      1.00       696
+ weighted avg       1.00      1.00      1.00       696
+
+Confusion Matrix:
+[[300   0]
+ [  0 396]]
